@@ -3,6 +3,8 @@
 Some things I did while preparing for the certification
 
 ---
+## Read the `Prep advice doc breakdown.ipynb` for a good starting point
+---
 ### Coding with Qiskit, the YT series
 Following tutorials from the series [🖥 Qiskit Algorithms - Coding with Qiskit Season 2](https://youtube.com/playlist?list=PLOFEBzvs-VvrhKYASly1BXo1AdPyoCsor) and [💻 Qiskit Foundations - Coding with Qiskit Season 1](https://youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
 
