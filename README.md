@@ -16,3 +16,8 @@ These are not complete code, each cell represents a video's content. The variabl
 ---
 ### NPTEL Notes
 Some notes from the [Introduction to Quantum Computing: Quantum Algorithms and Qiskit](https://onlinecourses.nptel.ac.in/noc21_cs103/preview) course, great for understanding the theory.
+
+---
+### Solutions to the sample paper
+Some great videos on solutions to the sample test given by IBM can be found at [Quantum Computing Club at UIC](https://www.youtube.com/channel/UCjYQUc3aR0eG6wetUWm0xSw/videos) and [Solutions to sample exam questions: IBM Certified Associate Developer Fundamentals of Quantum Computation using Qiskit
+](https://youtube.com/playlist?list=PLc0hCYZM3y3V9zc2Hf8QIJuA3owMW6lG9)
