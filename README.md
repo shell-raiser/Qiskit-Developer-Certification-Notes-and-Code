@@ -13,7 +13,7 @@ Following tutorials from the series [🖥 Qiskit Algorithms - Coding with Qiskit
 ### 1 min qiskit
 
 Snippets from the [1 min qiskit playlist](https://youtube.com/playlist?list=PLOFEBzvs-VvpOCmJ9BonUhf7NYB4d1p0e)<br>
-These are not complete code, each cell represents a video's content. The variable names are changed to keep things coonsistent with my learning.
+These are not complete code, each cell represents a video's content. The variable names are changed to keep things consistent with my learning.
 
 ---
 ### NPTEL Notes
