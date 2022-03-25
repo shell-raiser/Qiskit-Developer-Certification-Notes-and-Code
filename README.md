@@ -1,7 +1,7 @@
 # Prep Materials for the [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300)
 
-Some things I did while preparing for the certification
-
+Some things I did while preparing for the certification. <br>
+⭐ this repo if you find it useful
 ---
 ## Read the `Prep advice doc breakdown.ipynb` for a good starting point
 
